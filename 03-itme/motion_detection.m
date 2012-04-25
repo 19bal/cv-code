@@ -225,18 +225,18 @@ if together_state
         p1_motion_starting_index = i - 1;
         i = i - 1;
         if i == 1; break; end
-        end
-        if p1_motion_starting_index ~= 0
-            p1_motion_starting_state = true;
+    end
+    if p1_motion_starting_index ~= 0
+        p1_motion_starting_state = true;
     end
     i = together_index - 1;
     while ((p2_min_arm_angle < people.arm_angle(i, 2) && people.arm_angle(i, 2) < p2_max_arm_angle) && (p2_mean_width < people.bound(i, 7)) && i >= ilk_frame)
         p2_motion_starting_index = i - 1;
         i = i - 1;
         if i == 1; break; end
-        end
-        if p2_motion_starting_index ~= 0
-            p2_motion_starting_state = true;
+    end
+    if p2_motion_starting_index ~= 0
+        p2_motion_starting_state = true;
     end
 end
 
