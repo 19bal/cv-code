@@ -8,5 +8,5 @@
 - [06-#FIXME]
 
 Burada çeşitli videolardan hareket tespiti eden kodları bulacaksınız.
-Kodların deneneceği videoları ve kodların nasıl çalıştığı hakkında sunumları
-bilgiler için [19bal/cv-asset](http://github.com/19bal/cv-asset) deposuna bakınız.
+Kodların deneneceği videoları ve kodların nasıl çalıştığı hakkında sunumlar
+için [19bal/cv-asset](http://github.com/19bal/cv-asset) deposuna bakınız.
