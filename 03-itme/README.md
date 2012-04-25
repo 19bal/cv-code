@@ -11,7 +11,7 @@ arkaplan:
 
 	video: 001-002.mpg
 
-onplan:
+önplan:
 
 	video: 003-010.mpg
 
