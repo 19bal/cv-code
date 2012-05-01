@@ -12,4 +12,4 @@ TODO
 
 ### YOUTUBE
 
-TODO
+Youtube üzerinde uygulamanın gerçeklemesini anlatan video'yu izlemek için [Tıklayınız.](http://www.youtube.com/watch?v=OZWBbRdZWXI&feature=youtu.be)
