@@ -1,7 +1,7 @@
 ### Bil416 Bilgisayarlı Görü Laboratuvarı Kodları
 
 - [01-#FIXME]
-- [02-itme](http://github.com/19bal/cv-code/tree/master/02-yumruk_atma)
+- [02-yumruk_atma](http://github.com/19bal/cv-code/tree/master/02-yumruk_atma)
 - [03-itme](http://github.com/19bal/cv-code/tree/master/03-itme)
 - [04-sarılma](https://github.com/19bal/cv-code/tree/master/04-sarilma)
 - [05-#FIXME]
