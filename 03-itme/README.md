@@ -22,3 +22,7 @@ betik:
 	bg_remove: #TODO
 
 	motion_detection: #TODO
+
+### VİDEO VE SUNUM
+
+Video ve sunumlar için [tıklayınız](http://github.com/19bal/cv-asset/tree/master/03-itme)
