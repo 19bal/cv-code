@@ -21,3 +21,7 @@ betik:
 	bg_model: #TODO
 
 	oku: #TODO
+	
+### VİDEO
+
+Video için [tıklayınız](http://github.com/19bal/cv-asset/tree/master/02-yumruk_atma)
