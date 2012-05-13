@@ -4,7 +4,7 @@
 - [02-yumruk_atma](http://github.com/19bal/cv-code/tree/master/02-yumruk_atma)
 - [03-itme](http://github.com/19bal/cv-code/tree/master/03-itme)
 - [04-sarılma](https://github.com/19bal/cv-code/tree/master/04-sarilma)
-- [05-#FIXME]
+- [05-hizli_yavas_yurume](https://github.com/19bal/cv-code/tree/master/05-hizli_yavas_yurume)
 - [06-#FIXME]
 
 Burada çeşitli videolardan hareket tespiti eden kodları bulacaksınız.
