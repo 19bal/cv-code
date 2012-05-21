@@ -9,14 +9,13 @@ frames = read(reader, [1, N]);          % videonun N adet frameni oku ve ata
 [R, C, L] = size(frames(:, :, :, 1));   % frameler için satır ve sütun sayılarını al (R=satır sayısı ve C=sütun sayısı olarak ata)
 
 k = 26;
+F1 = double(mn(:, :, 1)) - k*st(:, :, 1); % her framenin kırmızı değerlerinin ortalama kırmızı değerlerden farkını al
+T1 = double(mn(:, :, 1)) + k*st(:, :, 1); % her framenin kırmızı değerlerinin ortalama kırmızı değerlerden farkını al
+F2 = double(mn(:, :, 2)) - k*st(:, :, 2); % her framenin yeşil değerlerinin ortalama yeşil değerlerden farkını al
+T2 = double(mn(:, :, 2)) + k*st(:, :, 2); % her framenin yeşil değerlerinin ortalama yeşil değerlerden farkını al
+F3 = double(mn(:, :, 3)) - st(:, :, 3);   % her framenin mavi değerlerinin ortalama mavi değerlerden farkını al
+T3 = double(mn(:, :, 3)) + st(:, :, 3);   % her framenin mavi değerlerinin ortalama mavi değerlerden farkını al
 for i = 1 : N
-    F1 = double(mn(:, :, 1)) - k*st(:, :, 1); % her framenin kırmızı değerlerinin ortalama kırmızı değerlerden farkını al
-    T1 = double(mn(:, :, 1)) + k*st(:, :, 1); % her framenin kırmızı değerlerinin ortalama kırmızı değerlerden farkını al
-    F2 = double(mn(:, :, 2)) - k*st(:, :, 2); % her framenin yeşil değerlerinin ortalama yeşil değerlerden farkını al
-    T2 = double(mn(:, :, 2)) + k*st(:, :, 2); % her framenin yeşil değerlerinin ortalama yeşil değerlerden farkını al
-    F3 = double(mn(:, :, 3)) - st(:, :, 3);   % her framenin mavi değerlerinin ortalama mavi değerlerden farkını al
-    T3 = double(mn(:, :, 3)) + st(:, :, 3);   % her framenin mavi değerlerinin ortalama mavi değerlerden farkını al
-
     Y = ones(R, C);
     P1 = frames(:, :, 1, i);
     P2 = frames(:, :, 2, i);

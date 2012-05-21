@@ -7,18 +7,19 @@
 
 ### AÇIKLAMA
 
-arkaplan:
+- bg_model:
 
-	video: 001-002.mpg
+Arkaplan videolarının(kişilerin bulunmadığı videolar) ortalama ve standart sapma değerlerini 2 resim şeklinde dönderir.
 
-önplan:
+- bg_remove:
 
-	video: 003-010.mpg
+bg_model'den gelen ortalama ve standart sapma değerleri kullanılarak önplan videolarından(kişilerin bulunduğu videolar) kişilerin
+barındırdığı alanları **1** diğer alanları(arka planı) **0** olarak bw(siyah beyaz) bir frame cell'i(hücresi) dönderir.
 
-betik:
+- motion_detection.m:
 
-	bg_model: #TODO
+bg_remove'dan gelen bw(siyah beyaz) frame cell'ini(hücresini) yorumlarayarak itme olup olmadığını söyler.
 
-	bg_remove: #TODO
+### VİDEO VE BİLDİRİ
 
-	motion_detection: #TODO
+Videolar ve bildiri için [tıklayınız](http://github.com/19bal/cv-asset/tree/master/03-itme)
