@@ -313,13 +313,13 @@ end
 percent = 0;
 if p1_motion_starting_state
     frame_no = p1_motion_starting_index;
-    fprintf('- p1 bişiler yapmaya başladı:%d\n', frame_no);
+    fprintf('- p1 bir şeyler yapmaya başladı:%d\n', frame_no);
     figure(frame_no), imshow(I{frame_no});
     percent = percent + 35;
 end
 if p2_motion_starting_state
     frame_no = p2_motion_starting_index;
-    fprintf('- p2 bişiler yapmaya başladı:%d\n', frame_no);
+    fprintf('- p2 bir şeyler yapmaya başladı:%d\n', frame_no);
     figure(frame_no), imshow(I{frame_no});
     percent = percent + 35;
 end
@@ -341,13 +341,13 @@ if untogether_state
 end
 if p2_motion_ending_state
     frame_no = p2_motion_ending_index;
-    fprintf('- p1e bişiler oldu:%d\n', frame_no);
+    fprintf('- p1e bir şeyler oldu:%d\n', frame_no);
     figure(frame_no), imshow(I{frame_no});
     percent = percent + 25;
 end
 if p1_motion_ending_state
     frame_no = p1_motion_ending_index;
-    fprintf('- p2e bişiler oldu:%d\n', frame_no);
+    fprintf('- p2e bir şeyler oldu:%d\n', frame_no);
     figure(frame_no), imshow(I{frame_no});
     percent = percent + 25;
 end
