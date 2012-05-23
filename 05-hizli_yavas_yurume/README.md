@@ -12,6 +12,10 @@
 
 `bg_kontrol` fonksiyonu, önce `bg_model` fonksiyonunu daha sonra `bg_arka` fonksiyonunu çağırır. Daha sonra frame'lerin BoundingBox özellikleri alınarak iki bacak arası mesafe BoundingBox 'ı en büyük frame belirlenmesi yapılır. Belirli bir eşik değeri ile karşılaştırarak yürümenin hızlı mı yoksa yavaş mı olduğu belirlenir.
 
+### BİLDİRİ
+
+Bildiri için [tıklayınız](https://docs.google.com/a/bil.omu.edu.tr/file/d/0B0NSndFxc5pZc3dvSlZKTEx5WUk/edit)
+
 ### YOUTUBE
 
 Youtube üzerinden uygulamanın kullanımını anlatan video'yu izlemek için [Tıklayınız.](http://www.youtube.com/watch?v=JJZXZ9oghOY)
