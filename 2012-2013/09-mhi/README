@@ -1,0 +1,10 @@
+Motion History Image
+yöntem foreground görüntüler üzerinde hareket eden pixellerin isaretlenmesine dayanmaktadır
+ delta fonksiyonu F(Ii - Ii-1) şeklinde düşünülebilir 
+ MHI ise sum(deltaF) dir.
+ 
+ Motion Energy Image
+ Yöntem MHI ya zaman faktörünün eklenmesi ile geliştirilmiştir
+ delta fonksiyonu F(Ii - Ii-1) .* T şeklinde değiştirilmiştir burada T frame numarasıdır
+ MEI ise sum(deltaF) dir.
+ 

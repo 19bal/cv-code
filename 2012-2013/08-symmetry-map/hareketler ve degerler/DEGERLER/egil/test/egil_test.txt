@@ -1,0 +1,88 @@
+
+data =
+
+        1275         276         912         829
+
+		002/034. frame isleniyor...
+
+data =
+
+        1197         210         822         852
+
+		003/034. frame isleniyor...
+
+data =
+
+        1275         276         912         829
+
+		004/034. frame isleniyor...
+
+data =
+
+        1275         276         912         829
+
+		005/034. frame isleniyor...
+
+data =
+
+        1212         246         848         836
+
+		006/034. frame isleniyor...
+
+data =
+
+        1201         246         848         799
+
+		007/034. frame isleniyor...
+
+data =
+
+        1185         293         624         584
+
+		008/034. frame isleniyor...
+
+data =
+
+        1302         247         843         617
+
+		009/034. frame isleniyor...
+
+data =
+
+        1342         253         648         551
+
+		010/034. frame isleniyor...
+
+data =
+
+        1206         199         834         806
+
+		011/034. frame isleniyor...
+
+data =
+
+        1257         235         848         826
+
+		012/034. frame isleniyor...
+
+data =
+
+        1102         202         637         701
+
+		013/034. frame isleniyor...
+
+data =
+
+        1196         153         669         739
+
+		014/034. frame isleniyor...
+
+data =
+
+        1162         229         822         794
+
+		015/034. frame isleniyor...
+
+data =
+
+        1027         202         602         663
