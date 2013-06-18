@@ -1,12 +1,12 @@
 ### Bil416 Bilgisayarlı Görü Laboratuvarı Kodları
 
-- [01-el_sikisma](http://github.com/19bal/cv-code/tree/master/01-el_sikisma)
-- [02-yumruk_atma](http://github.com/19bal/cv-code/tree/master/02-yumruk_atma)
-- [03-itme](http://github.com/19bal/cv-code/tree/master/03-itme)
-- [04-sarılma](https://github.com/19bal/cv-code/tree/master/04-sarilma)
-- [05-hizli_yavas_yurume](https://github.com/19bal/cv-code/tree/master/05-hizli_yavas_yurume)
-- [06-canta_birakma](https://github.com/19bal/cv-code/tree/master/06-canta_birakma)
-
-Burada çeşitli videolardan hareket tespiti eden kodları bulacaksınız.
-Kodların deneneceği videoları ve kodların nasıl çalıştığı hakkında sunumlar
-için [19bal/cv-asset](http://github.com/19bal/cv-asset) deposuna bakınız.
+1	Seda Çağlar	Esra Yorulmaz	Begüm Korkmaz	Duty Factor	https://github.com/begumkorkmaz/Gorulab_dutyfactor
+2	Elif Gül	Gizem Hergüner	Cemre Tonyalı	bundle rectangle	https://github.com/gherguner/grup-2-bundle-rectangule
+3	Gülcan Özer	Özlem Okumuş	Melike Saraç	Fourier|Elliptic Descriptor	https://github.com/gulcanozer/GoruLab_Fourier
+4	K.Canan Demirel	Merve Baştürk	Seda Doğan	Hu Moment and Zernice Moment	https://github.com/sedadogan/Hu-Moment-and-Zernice-Moment
+5	Ali Daşbaşı	Kerem Öğüt	Emre Engin	Width vector	https://github.com/adasbasi/width_vector
+6	Fatih Taştemur	A.Burak Öncül	Nevzat Bozdağ	GFI	https://github.com/fatihtastemur/gfi
+7	Funda Karadeniz	Harun Kara	Ahmet Büyükgökçe	Chrono-Gait Image (CGI)	https://github.com/karahrn/Chrono-Gait-Image
+8	Hasan Arslan	Aykut Karakaya	Eldar Fayzulov	Symmetry Map	https://github.com/cehars/Symmetry-Map
+9	Talha Büyükakkaşlar	-	-	MHI, MEI	https://github.com/TalhaAkkas/Motion_History_Image
+10	Samet Kakili	-	-	GEI, GMI, EGEI, EDI, FDEI	https://github.com/sametkakilli/Goruntuisleme
